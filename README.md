@@ -1,10 +1,10 @@
 <div align="center">
 
-#<span style="color:#00ff00;text-shadow: 0 0 10px #00ff00; font-family: 'Courier New', monospace;font-size: 3em;">acliquid</span>
+#<span style="color:#00ff00;text-shadow: 0 0 10px #00ff00; font-family: 'Courier New', monospace;font-size: 3em;">acliquid</span>  
 <img src="https://komarev.com/ghpvc/?username=xiaohuaye1&color=brightgreen&style=flat-square"/>
 <br/>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaohuaye1&theme=radical&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=xiaohuaye1&theme=radical&show_icons=true&hide_border=true" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git,vscode"/>
@@ -24,9 +24,9 @@ padding: 20px;
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
-hi,span {
-color: #00ff00 !important
-font-family: 'Courier New', monospace;
+h1,span {
+color: #00ff00 !important;
+font-family: 'Courier New'， monospace;
 text-shadow: 0 0 10px #00ff00,0 0 20px #00ff00;
 font-size:3em;
   }
